@@ -64,7 +64,7 @@
     "open-location-code": "^1.0.3",
     "path-browserify": "^1.0.1",
     "select2": "^4.0.13",
-    "shell-quote": "^1.8.4",
+    "shell-quote": "^1.10.0",
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
     "tls-browserify": "^0.2.2",
